@@ -69,18 +69,18 @@ controls속성은 재생, 일시 정지, 볼륨처럼, 비디오 컨트롤을 �
 ### 브라우저 지원
 표의 숫자는 \<video>요소 를 완전히 지원하는 첫 번째 브라우저 버전을 지정합니다 .
 
-<img src='./img/html_video.png'>
+\<img src='./img/html_video.png'>
 
 ***
 ### HTML 비디오 형식
 지원되는 비디오 형식은 MP4, WebM 및 Ogg의 세 가지입니다. 다양한 형식에 대한 브라우저 지원은 다음과 같습니다.
 
-<img src='./img/html_video2.png'>
+\<img src='./img/html_video2.png'>
 
 ***
 ### HTML 비디오 - 미디어 유형
 
-<img src='./img/html_video3.png'>
+\<img src='./img/html_video3.png'>
 
 ***
 ### HTML 비디오 - 메서드, 속성 및 이벤트
